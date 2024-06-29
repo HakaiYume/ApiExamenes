@@ -1,6 +1,11 @@
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\ApiExamne.exe
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\out\web.config
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\appsettings.Development.json
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\appsettings.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\out\ApiExamne.deps.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\out\ApiExamne.runtimeconfig.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\out\appsettings.Development.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\out\appsettings.json
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\ApiExamne.dll
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\ApiExamne.runtimeconfig.json
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\out\ApiExamne.pdb

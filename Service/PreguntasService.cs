@@ -64,7 +64,9 @@ namespace ApiExamne.Services
                     PreguntaId = p.PreguntaId,
                     Texto = p.Texto,
 
-                    Respuestas = p.Respuesta.Select(r => new RespuestaResponseDto
+                    Respuestas = p.Respuesta
+                    .OrderBy(r => Guid.NewGuid())
+                    .Select(r => new RespuestaResponseDto
                     {
                         RespuestaId = r.RespuestaId,
                         Texto = r.Texto,
