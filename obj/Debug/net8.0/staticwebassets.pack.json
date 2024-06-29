@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\Desktop\\Programacion\\Uni\\ApiExamne\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiExamne.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiExamne.props",
+      "PackagePath": "build\\ApiExamne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiExamne.props",
+      "PackagePath": "buildMultiTargeting\\ApiExamne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiExamne.props",
+      "PackagePath": "buildTransitive\\ApiExamne.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

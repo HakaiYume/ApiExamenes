@@ -135,3 +135,10 @@ C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\obj\Debug\net8.0\refint\ApiEx
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\obj\Debug\net8.0\ApiExamne.pdb
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\obj\Debug\net8.0\ApiExamne.genruntimeconfig.cache
 C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\obj\Debug\net8.0\ref\ApiExamne.dll
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\bin\Debug\net8.0\out\web.config
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\bin\Debug\net8.0\out\ApiExamne.deps.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\bin\Debug\net8.0\out\ApiExamne.runtimeconfig.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\bin\Debug\net8.0\out\appsettings.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\obj\Debug\net8.0\ApiExamne.sourcelink.json
+C:\Users\Daniel\Desktop\Programacion\Uni\ApiExamne\bin\Debug\net8.0\ApiExamne.staticwebassets.runtime.json

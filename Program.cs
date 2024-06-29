@@ -26,6 +26,7 @@ builder.Services.AddSqlServer<ApiExamenesContext>(builder.Configuration.GetConne
 //Services
 builder.Services.AddScoped<IExamenService, ExamenService>();
 builder.Services.AddScoped<IPreguntaService, PreguntaService>();
+builder.Services.AddScoped<IRespuestaService, RespuestaService>();
 
 var app = builder.Build();
 
@@ -40,6 +41,8 @@ if (app.Environment.IsDevelopment())
 app.UseCors(MyOrigins);
 
 app.UseHttpsRedirection();
+
+app.UseStaticFiles();
 
 app.UseAuthentication();
 
